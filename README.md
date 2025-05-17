@@ -1,4 +1,4 @@
-# Olá, Eu sou Victor Souza!
+# Hi, I am Victor Souza!
 
 <div align="center" style="display: flex; flex-direction: row; gap: 20rem">
   <a href="https://github.com/souzaaxt">
@@ -27,7 +27,3 @@
     <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a> 
 </div>
-
-
-
-
