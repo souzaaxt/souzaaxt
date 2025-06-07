@@ -1,12 +1,17 @@
-# Hi, I am Victor Souza!
+# Hi, I am Victor Souza! 👋
 
-<div align="center" style="display: flex; flex-direction: row; gap: 20rem">
-  <a href="https://github.com/souzaaxt">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=souzaaxt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzaaxt&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
-  
+## GitHub Stats
+
+![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=souzaaxt&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![Victor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaaxt&layout=compact&langs_count=7&theme=radical)
+
+![Victor's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souzaaxt&theme=radical)
+
+---
+
+### 🛠️ Technologies I work with:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Victor-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -14,7 +19,9 @@
   <img align="center" alt="Victor-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
 
-##
+---
+
+### 🌐 Connect with me
 
 <div>
   <a href="https://www.linkedin.com/in/victor-souza-330b67307" target="_blank">
