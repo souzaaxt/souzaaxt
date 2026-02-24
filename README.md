@@ -2,17 +2,19 @@
 
 ## GitHub Stats
 
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=souzaaxt&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-![Victor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaaxt&layout=compact&langs_count=7&theme=radical)
-
-![Victor's GitHub Streak](https://streak-stats.demolab.com?user=souzaaxt&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=souzaaxt&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Victor's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzaaxt&layout=compact&langs_count=7&theme=radical" alt="Victor's Top Languages" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/streak-stats/?user=souzaaxt&theme=radical" alt="Victor's GitHub Streak" />
+</p>
 
 ---
 
 ### 🛠️ Technologies I work with:
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Victor-JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Victor-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Victor-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
